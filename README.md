@@ -9,4 +9,4 @@
 - :rocket: I’m looking to collaborate on javascript open source projects to get more experience
 - 🤔 I’m looking for a Full Stack job (Node, React, React Native)
 
-[Visit my website](www.ggportfolio.com.br)
+[Visit my website!](https://www.ggportfolio.com.br)
