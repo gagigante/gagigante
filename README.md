@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Gabriel Gigante 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gigante/)](https://www.linkedin.com/in/gabriel-gigante/)
 
