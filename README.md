@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gigante/)](https://www.linkedin.com/in/gabriel-gigante/)
 
-[![Twitter Badge](https://img.shields.io/badge/-@gagigante29-blue?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/gagigante29)](https://twitter.com/dieegosf) 
+[![Twitter Badge](https://img.shields.io/badge/-@gagigante29-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gagigante29)](https://twitter.com/dieegosf) 
 
 ![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gagigante29)
 ![Instagram](https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gag.gg/)
