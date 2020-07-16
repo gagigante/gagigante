@@ -1,12 +1,14 @@
 ### Hi there, I'm Gabriel Gigante 👋
 
+<p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-gabriel-gigante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gigante/)](https://www.linkedin.com/in/gabriel-gigante/)
 
 [![Twitter Badge](https://img.shields.io/badge/-@gagigante29-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gagigante29)](https://twitter.com/gagigante29) 
 
 [![Instagram Badge](https://img.shields.io/badge/-gah.gg-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gag.gg/)](https://www.instagram.com/gah.gg/)
 
-
+</p>
 
 
 ![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/gagigante29)
