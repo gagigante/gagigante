@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel Gigante 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Gigante-#0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gigante/)](https://www.linkedin.com/in/gabriel-gigante/) 
-[![Twitter Badge](https://img.shields.io/badge/-@gagigante29-#00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gagigante29)](https://twitter.com/gagigante29) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Gigante-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gigante/)](https://www.linkedin.com/in/gabriel-gigante/) 
+[![Twitter Badge](https://img.shields.io/badge/-@gagigante29-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gagigante29)](https://twitter.com/gagigante29) 
 [![Instagram Badge](https://img.shields.io/badge/-gah.gg-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gag.gg/)](https://www.instagram.com/gah.gg/)
 
 
