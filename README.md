@@ -11,4 +11,7 @@
 - :rocket: I’m looking to collaborate on javascript open source projects to get more experience
 - 🤔 I’m looking for a Full Stack job (Node, React, React Native)
 
+
+- :blue_book: [look at what I have been studying and what I am currently studying easily](https://www.notion.so/Github-repositories-39ea2a741cdc4ead8ab0a8cb30e7520e)
+
 [Visit my website!](https://www.ggportfolio.com.br)
