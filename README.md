@@ -6,7 +6,7 @@
 
 - :blush: Graduating in analysis and systems development at IFSP and computer technician at Etec
 - 🔭 I'm currently working on Treetech as software development intern with Asp net core and Vue js
-- :star: Freelancer at [Decada Technology](www.decadatech.com)
+- :star: Freelancer at [Decada Technology](https://www.decadatech.com)
 - 🌱 I’m currently focusing on javascript development (Node, React, React Native, TypeScript)
 - :fire: My english is a work in progress
 - :rocket: I’m looking to collaborate on javascript open source projects to get more experience
