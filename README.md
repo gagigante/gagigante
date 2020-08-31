@@ -1,7 +1,8 @@
 ### Hi there, I'm Gabriel Gigante 👋
 [![Gmail Badge](https://img.shields.io/badge/-gabrielgigante29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielgigante29@gmail.com)](mailto:gabrielgigante29@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Gigante-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-gigante/)](https://www.linkedin.com/in/gabriel-gigante/) 
-[![Instagram Badge](https://img.shields.io/badge/-gah.gg-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gag.gg/)](https://www.instagram.com/gah.gg/)
+
+<!--- [![Instagram Badge](https://img.shields.io/badge/-gah.gg-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gag.gg/)] (https://www.instagram.com/gah.gg/) --->
 
 - :smile: Graduating in analysis and systems development at IFSP and computer technician at Etec
 - 🔭 I'm currently working on Treetech as software development intern with Asp net core and Vue js
