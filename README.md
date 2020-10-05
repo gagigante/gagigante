@@ -15,11 +15,10 @@
 - :blue_book: look what I have been studying and what am I currently doing [here](https://www.notion.so/Github-repositories-39ea2a741cdc4ead8ab0a8cb30e7520e)
 <br/>
 
-<p align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagigante&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagigante&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gagigante&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gagigante&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
