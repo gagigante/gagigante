@@ -7,7 +7,7 @@
 <!--- [![Instagram Badge](https://img.shields.io/badge/-gah.gg-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gag.gg/)] (https://www.instagram.com/gah.gg/) --->
 
 - :smile: Graduating in analysis and systems development at IFSP and computer technician by Etec
-- 🔭 I'm currently working on [Treetech](http://treetech.com.br/) as software development intern with Asp net core and Vue js
+- 🔭 I'm currently working on [Treetech](http://treetech.com.br/) as software development intern with C# and Vue js
 - 🌱 I’m currently focusing on javascript development (Node, React, React Native, TypeScript)
 - :fire: My english is a work in progress
 - :rocket: I’m looking to collaborate on javascript open source projects to get more experience
