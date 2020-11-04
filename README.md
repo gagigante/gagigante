@@ -7,11 +7,11 @@
 <!--- [![Instagram Badge](https://img.shields.io/badge/-gah.gg-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gag.gg/)] (https://www.instagram.com/gah.gg/) --->
 
 - :smile: Graduating in analysis and systems development at IFSP and computer technician by Etec
-- 🔭 I'm currently working on [Treetech](http://treetech.com.br/) as software development intern with C# and Vue js
+- 🔭 I'm currently working on [Accountfy](https://www.accountfy.com//) as front-end developer with Angular
 - 🌱 I’m currently focusing on javascript development (Node, React, React Native, TypeScript)
 - :fire: My english is a work in progress
 - :rocket: I’m looking to collaborate on javascript open source projects to get more experience
-- 🤔 I’m looking for a Full Stack job (Node, React, React Native)
+<!--- 🤔 I’m looking for a Full Stack job (Node, React, React Native) --->
 
 
 - :blue_book: look what I have been studying and what am I currently doing [here](https://www.notion.so/Github-repositories-39ea2a741cdc4ead8ab0a8cb30e7520e)
