@@ -8,7 +8,7 @@
 
 - :smile: Graduating in analysis and systems development at IFSP and computer technician by Etec
 - 🔭 I'm currently working at [Accountfy](https://www.accountfy.com//) as front-end developer with Angular
-- 🌱 I’m currently focusing on javascript development (Node, React, React Native, TypeScript)
+- 🌱 I’m currently focusing on javascript development (React, React Native, Node, TypeScript)
 - :fire: My english is a work in progress
 - :rocket: I’m looking to collaborate on javascript open source projects to get more experience
 <!--- 🤔 I’m looking for a Full Stack job (Node, React, React Native) --->
