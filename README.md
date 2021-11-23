@@ -7,7 +7,7 @@
 <!--- [![Instagram Badge](https://img.shields.io/badge/-gah.gg-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gag.gg/)] (https://www.instagram.com/gah.gg/) --->
 
 - :smile: Graduating in analysis and systems development at IFSP and computer technician by Etec
-- 🔭 I'm currently working at [Accountfy](https://www.accountfy.com//) as front-end developer with Angular
+- 🔭 I'm currently working at [Luizalabs](https://medium.com/luizalabs) as front-end developer with React and Next.js
 - 🌱 I’m currently focusing on javascript development (React, React Native, Node, TypeScript)
 - :fire: My english is a work in progress
 - :rocket: I’m looking to collaborate on javascript open source projects to get more experience
