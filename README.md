@@ -10,11 +10,11 @@
 - 🔭 I'm currently working at [Luizalabs](https://medium.com/luizalabs) as front-end developer with React and Next.js
 - 🌱 I’m currently focusing on javascript development (React, React Native, Node, TypeScript)
 - :fire: My english is a work in progress
-- :rocket: I’m looking to collaborate on javascript open source projects to get more experience
+<!-- - :rocket: I’m looking to collaborate on javascript open source projects to get more experience -->
 <!--- 🤔 I’m looking for a Full Stack job (Node, React, React Native) --->
 
 
-- :blue_book: look what I have been studying and what am I currently doing [here](https://www.notion.so/Github-repositories-39ea2a741cdc4ead8ab0a8cb30e7520e)
+<!-- - :blue_book: look what I have been studying and what am I currently doing [here](https://www.notion.so/Github-repositories-39ea2a741cdc4ead8ab0a8cb30e7520e) -->
 <br/>
 
 
